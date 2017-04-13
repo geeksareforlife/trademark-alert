@@ -1,0 +1,19 @@
+{
+    "name": "GeeksAreForLife/TM",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Hayward",
+            "email": "jhayward1980@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GeeksAreForLife\\TM\\": "app/"
+        }
+    },
+    "require": {
+        "h0gar/xpath": "^0.1.4"
+    }
+}

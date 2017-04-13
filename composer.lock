@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f06bc9a2f53ae747670fdb218233e597",
+    "content-hash": "8ec619c40f167228ec8ce8f97408c61b",
+    "packages": [
+        {
+            "name": "h0gar/xpath",
+            "version": "0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/h0gar/xpath.git",
+                "reference": "692fc8a4b21913d80bdcdeb3b0251e1bbb93753f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/h0gar/xpath/zipball/692fc8a4b21913d80bdcdeb3b0251e1bbb93753f",
+                "reference": "692fc8a4b21913d80bdcdeb3b0251e1bbb93753f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "H0gar\\Xpath\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Michel Hognerud",
+                    "email": "michel@hognerud.net"
+                }
+            ],
+            "time": "2016-01-04 13:47:21"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
